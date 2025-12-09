@@ -1,0 +1,6 @@
+# पुराने v13.14 की जगह v20+ डालें
+python-telegram-bot>=20.0 
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+gdown
